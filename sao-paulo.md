@@ -8,6 +8,7 @@
 * [Lecom](http://www.lecom.com.br/)
 
 ## Campinas
+* [MBLabs](https://mblabs.com.br)
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
 * [Codeminer42](http://www.codeminer42.com/)
